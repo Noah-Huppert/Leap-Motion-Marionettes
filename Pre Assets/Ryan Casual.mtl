@@ -1,0 +1,202 @@
+newmtl Body
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualBody.png
+d 1
+newmtl Shirt
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualShirt.jpg
+d 1
+newmtl Head
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualHead2.png
+d 1
+newmtl EyeSockets
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualHead2.png
+d 1
+newmtl Nostrils
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualHead2.png
+d 1
+newmtl Lacrimals
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualHead2.png
+d 1
+newmtl InnerMouth
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualHead2.png
+d 1
+newmtl Lips
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualHead2.png
+d 1
+newmtl EyelashesTop
+Ns 50
+Ka 0 0 0
+Kd 0.298039 0.231373 0.184314
+Ks 0 0 0
+d 1
+map_d  RyanCasualLash_EyeTrans.png
+newmtl EyelashesBottom
+Ns 50
+Ka 0 0 0
+Kd 0.298039 0.231373 0.184314
+Ks 0 0 0
+d 1
+map_d  RyanCasualLash_EyeTrans.png
+newmtl TearLine
+Ns 50
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+map_d  RyanCasualTearline_Trans.png
+newmtl EyeballLeft
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualEyes.png
+d 1
+newmtl IrisLeft
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualEyes.png
+d 1
+newmtl PupilLeft
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualEyes.png
+d 1
+newmtl CorneaLeft
+Ns 50
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+map_d  RyanGenericTransMap.png
+newmtl EyeballRight
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualEyes.png
+d 1
+newmtl IrisRight
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualEyes.png
+d 1
+newmtl PupilRight
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualEyes.png
+d 1
+newmtl CorneaRight
+Ns 50
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+map_d  RyanGenericTransMap.png
+newmtl Teeth
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualTeeth.png
+d 1
+newmtl Gums
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualTeeth.png
+d 1
+newmtl Tongue
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualHead2.png
+d 1
+newmtl Fingernails
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualBody.png
+d 1
+newmtl Fabric
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualTrousers.jpg
+d 1
+newmtl Inside
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualShoes.jpg
+d 1
+newmtl Sole
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualShoes.jpg
+d 1
+newmtl Outside
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualShoes.jpg
+d 1
+newmtl Belt
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd RyanCasualBelt.jpg
+d 1
+newmtl Metal
+Ns 50
+Ka 0 0 0
+Kd 0.247059 0.247059 0.247059
+Ks 0 0 0
+d 1
